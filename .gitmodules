@@ -1,6 +1,6 @@
 [submodule "pack/tpope/start/surround"]
 	path = pack/tpope/start/surround
-	url = https://tpope.io/vim/surround.git
+	url = https://github.com/tpope/vim-surround.git
 [submodule "plugged/img-paste.vim"]
 	path = plugged/img-paste.vim
 	url = https://github.com/img-paste-devs/img-paste.vim.git
