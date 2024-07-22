@@ -1,1 +1,1 @@
-Private repository for sharing Vim configuration files
+My Vim configuration files
